@@ -7,5 +7,5 @@
 <p align="center">Java OO: Entendendo a orientação a obejetos</p>
 
 ## Tecnologias
-* JAVA
+* Java
 
